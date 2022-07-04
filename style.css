@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@1,700&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.seg1{
+    background-color:black;
+    width: 100vw;
+    height: 100vh;
+}
+
+.seg2{
+    background-color: grey;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.seg2 img{
+    width: 100vw;
+    height: 100vh;
+}
+
+.seg2 h2{
+    position: absolute;
+    font-size: 50px;
+    background-color: aliceblue;
+}
+
+.seg2 h1{
+    position: absolute;
+    font-size: 50px;
+    background-color: aliceblue;
+    margin-top: 10%;
+}
+
+.seg3{
+    background-color: orange;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    border: 5px solid white;
+    padding: 5px;
+}
+
+.seg3 p{
+    font-family: 'PT Serif', serif;
+    font-size: 150%;
+}
+
+.seg3 img{
+    width: 600px;
+    height: 400px;
+    margin-top: 5%;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.seg4{
+    background-color: pink;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    border: 5px solid white;
+    padding: 5px;
+}
+
+.seg4 p{
+    font-family: 'PT Serif', serif;
+    font-size: 150%;
+}
+
+.seg4 img{
+    width: 600px;
+    height: 400px;
+    margin-top: 7%;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.seg5{
+    background-color: skyblue;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    border: 5px solid white;
+    padding: 5px;
+}
+
+.seg5 p{
+    font-family: 'PT Serif', serif;
+    font-size: 150%;
+}
+
+
+.seg5 img{
+    width: 600px;
+    height: 400px;
+    margin-top: 7%;
+    border: 5px solid black;
+    padding: 10px;
+}
+ 
